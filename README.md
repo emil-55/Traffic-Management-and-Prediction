@@ -10,7 +10,7 @@ This project aims to revolutionize traffic management and prediction using advan
 
 Traffic congestion is a major urban challenge, leading to time wastage, increased pollution, and reduced productivity. This project endeavors to address this issue by implementing intelligent traffic management solutions that can alleviate congestion and enhance transportation systems. The vision behind this project is to create a positive impact on daily commutes and contribute to a cleaner environment.
 
-![traffic](/Traffic_jam_in_Bangkok.JPG)
+![Traffic Image](/Traffic_jam_in_Bangkok.JPG)
 
 ## How is it used?
 
@@ -28,12 +28,10 @@ While the primary goal is to optimize traffic flow, it is acknowledged that comp
 
 ## What next?
 
-The project's growth potential is immense. Envisioned enhancements include incorporating real-time data feeds and live traffic updates from social media, along with seamless integration into smart city infrastructure. Collaboration with local authorities, transportation experts, and city planners will be vital in taking the project to the next level.
+The project's growth potential is immense. Envisioned enhancements include incorporating real-time data feeds and live traffic updates from social media, along with seamless integration into smart city infrastructure. Collaboration with local authorities, transportation
 
 ## Acknowledgments
 
-This project draws inspiration from various AI research papers and successful transportation optimization initiatives. Proper credit will be given for all data sources used, adhering to open-source principles and acknowledging the contributions of relevant tools and libraries.
+inspiration: [Amir Hever: How AI Is Helping To Improve Transportation Safety On A Global Scale](https://www.forbes.com/sites/forbestechcouncil/2023/05/12/how-ai-is-helping-to-improve-transportation-safety-on-a-global-scale/?sh=5691de045436)
 
-For example: [Traffic Image](https://commons.wikimedia.org/wiki/File:Traffic_Jam_in_Bangalore.jpg) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-
-The approach is to present a comprehensive and structured overview of the Traffic Management and Prediction AI project. The aim is to customize the efforts to fit the project's specific goals, data sources, and AI methods, aiming for a successful and impactful outcome. This journey seeks to transform traffic management for an improved commute experience.
+[Traffic Image](https://commons.wikimedia.org/wiki/File:Traffic_jam_in_Bangkok.JPG) / Milei.vencel, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
