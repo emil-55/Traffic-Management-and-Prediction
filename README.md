@@ -10,11 +10,13 @@ This project aims to revolutionize traffic management and prediction using advan
 
 Traffic congestion is a major urban challenge, leading to time wastage, increased pollution, and reduced productivity. This project endeavors to address this issue by implementing intelligent traffic management solutions that can alleviate congestion and enhance transportation systems. The vision behind this project is to create a positive impact on daily commutes and contribute to a cleaner environment.
 
+![traffic](/Traffic_jam_in_Bangkok.JPG)
+
 ## How is it used?
 
 The AI system will leverage historical traffic data from various sources, including traffic cameras, GPS devices, and sensors. Through data processing, traffic patterns will be predicted at different times of the day and during diverse weather conditions. The system will seamlessly integrate with traffic signals, variable message signs, and navigation apps, enabling optimized traffic flow, alternate route suggestions, and real-time updates for drivers.
 
-![Traffic]([https://example.com/traffic_image.jpg](https://upload.wikimedia.org/wikipedia/commons/7/72/Traffic_jam_in_Bangkok.JPG))
+
 
 ## Data sources and AI methods
 
